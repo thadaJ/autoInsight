@@ -18,7 +18,7 @@ ai.binary_auto_insight(dataset, labelCol = 'TenYearCHD', positive_class = 1)
 
 
 ## Examples of Results (from data for cardiovascular disease (CVD) risk estimator 'framingham.csv')
-This is results created from autoInsight. 
+These are results created from autoInsight. 
 Each feature is chosen automatically with a machine learning algorithm.
 ![result](https://github.com/thadaJ/autoInsight/blob/master/Example%20of%20result.png)
 
