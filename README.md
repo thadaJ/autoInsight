@@ -14,4 +14,5 @@ ai.autoInsight(dataset, labelCol = 'TenYearCHD', positive_class = 1)
 
 
 ## Examples of Results
-![Image description](link-to-image)
+![This is results created from autoInsight. 
+Each feature is chosen automatically with a machine learning algorithm.](https://github.com/thadaJ/autoInsight/blob/master/Example%20of%20result.png)
