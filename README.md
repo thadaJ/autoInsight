@@ -5,7 +5,7 @@ autoInsight is a library that helps researchers and developers see patterns in d
 copy autoInsight.py to your working directory
 
 ## Step2:
-Import data and use the library as follows. (XGBoost_Data_Exploration.ipynb)
+Import data and use the library in your jupyter notebook as follows. (XGBoost_Data_Exploration.ipynb)
 
 ```python
 import autoInsight as ai
