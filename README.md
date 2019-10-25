@@ -1,4 +1,5 @@
 # autoInsight
+autoInsight is a library that helps researchers and developers see patterns in data that have two classes at a glance.
 
 ## Step1:
 copy autoInsight.py to your working directory
