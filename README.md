@@ -28,5 +28,7 @@ Each feature is chosen automatically with a machine learning algorithm.
 
 ![result](https://github.com/thadaJ/autoInsight/blob/master/big_table.png)
 
+Note: missing = No information appears on that feature (NA value)
+
 ## References
 Data: https://www.kaggle.com/amanajmera1/framingham-heart-study-dataset
