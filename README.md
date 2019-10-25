@@ -9,8 +9,10 @@ Import data and use the library as follows. (XGBoost_Data_Exploration.ipynb)
 ```python
 import autoInsight as ai
 import pandas as pd
+import numpy as np
 dataset = pd.read_csv('framingham.csv')
-ai.autoInsight(dataset, labelCol = 'TenYearCHD', positive_class = 1)
+dataset['male'] = dataset['male'].astype('bool')
+ai.binary_auto_insight(dataset, labelCol = 'TenYearCHD', positive_class = 1)
 ```
 
 
