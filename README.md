@@ -1,5 +1,4 @@
-![logo](https://github.com/thadaJ/autoInsight/blob/master/logo.png)
-# autoInsight
+# autoInsight <img src=https://github.com/thadaJ/autoInsight/blob/master/logo.png width="5%" height="5%"> 
 autoInsight is a library that helps researchers and developers see patterns in data that have two classes at a glance.
 
 ## Step1:
