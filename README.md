@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="DnK9Y6dcDXVP_jobMfbjs85sPnZxBxZnp8VrQst66r8" />
+
 <!--- <img src=https://github.com/thadaJ/autoInsight/blob/master/logo.png width="4.5%" height="4.5%">  --->
 # autoInsight 
 autoInsight is a library that helps researchers and developers see patterns in data that have two classes at a glance.
